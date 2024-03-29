@@ -1,25 +1,22 @@
 # ArtCalculator
-![Image alt](https://github.com/Lesuut/Artillery-Calculator-War-Thunder/blob/master/photo_2024-02-18_16-11-53.jpg)
-![Image alt](https://github.com/Lesuut/Artillery-Calculator-War-Thunder/blob/master/photo_2024-02-18_16-11-56.jpg).
+![Image alt](https://i.imgur.com/mTJfIMe.png)
+ 
 
-Use the game in windowed or full screen mode
+Use the game in windowed full screen mode
 
-Creating a screenshot:
+# Guide
+Open game, when minimap appear, click SET.
+Set grid size, located in right corner on minimap (number like: 225\250\500 etc.)
+Set your ammo speed, hover ur ammo type icon to get tooltip where you find it.
+First click will set grid size on scrnshot, to set it click on 1st corner of minimap grid then click on second, boom you done.
+Now click on your position (arrow) then on enemy position, done.
 
-Enter the desired screenshot scale in the "height, width, zoom" text box Click the "Screen Shot" button to take a screenshot of the current screen.
+You can reset lines or grid size by named button.
 
-Set the grid size:
 
-Click the "Set Grid" button, Click on the map to set the starting point of the game square dimension (first click), and then click again to set the ending point of the game square size (second click). Enter in the "Grid size in map" field the size of 1 square on the map.
+# Keybind
 
-Distance Measurement:
+You can hide and show app when need, click ALT key + what you have bind. (Default key: T)
+To bind key, click on textbox, then press desired key.
 
-Click on the map to set the start point of the measurement (first click) and then click again to set the end point (second click). The distance between the points will be measured and displayed in the labels. The azimuth (angle between two points) will be displayed in the marker.
-
-Calculating the arrival time:
-
-If you want to calculate the arrival time in the game, enter the speed of your projectile in the "Speed" text box. The arrival time will be calculated and displayed in "Arrival time".
-
-Clear Lines:
-
-Click the "Clear Lines" button to delete all drawn lines. (the grid size will be retained)
+ 
