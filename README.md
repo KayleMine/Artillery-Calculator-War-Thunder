@@ -1,5 +1,6 @@
 # ArtCalculator
-![Image alt](https://i.imgur.com/mTJfIMe.png)
+
+![Image alt](https://i.imgur.com/JaAKmj7.png)
  
 
 Use the game in windowed full screen mode
