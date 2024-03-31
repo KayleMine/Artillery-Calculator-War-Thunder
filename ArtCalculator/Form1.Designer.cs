@@ -77,7 +77,7 @@
             // 
             this.label2.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(549, 6);
+            this.label2.Location = new System.Drawing.Point(546, 12);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(81, 13);
             this.label2.TabIndex = 5;
@@ -153,7 +153,7 @@
             // 
             this.label9.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(549, 32);
+            this.label9.Location = new System.Drawing.Point(546, 29);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(82, 13);
             this.label9.TabIndex = 18;
@@ -163,7 +163,7 @@
             // 
             this.label11.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(503, 503);
+            this.label11.Location = new System.Drawing.Point(545, 487);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(40, 13);
             this.label11.TabIndex = 20;
@@ -180,11 +180,12 @@
             this.DrawLayer.FillColor = System.Drawing.Color.Transparent;
             this.DrawLayer.FillColor2 = System.Drawing.Color.Transparent;
             this.DrawLayer.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.Vertical;
-            this.DrawLayer.Location = new System.Drawing.Point(12, 3);
+            this.DrawLayer.Location = new System.Drawing.Point(12, 12);
             this.DrawLayer.Name = "DrawLayer";
+            this.DrawLayer.ShadowDecoration.Color = System.Drawing.Color.Gainsboro;
             this.DrawLayer.ShadowDecoration.Enabled = true;
             this.DrawLayer.ShadowDecoration.Parent = this.DrawLayer;
-            this.DrawLayer.Size = new System.Drawing.Size(531, 497);
+            this.DrawLayer.Size = new System.Drawing.Size(531, 500);
             this.DrawLayer.TabIndex = 23;
             this.DrawLayer.UseTransparentBackground = true;
             this.DrawLayer.MouseClick += new System.Windows.Forms.MouseEventHandler(this.DrawLayer_Click);
